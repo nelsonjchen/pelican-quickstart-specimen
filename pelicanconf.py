@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Tester'
 SITENAME = 'Specim'
-SITEURL = ''
+SITEURL = 'https://nelsonjchen.github.io/pelican-quickstart-specimen/'
 
 PATH = 'content'
 
